@@ -1,0 +1,105 @@
+.s-bannerTitle {
+    font-family: 'Syne', sans-serif;
+    font-size: 120px;
+    font-weight: 800;
+    line-height: 1em;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FFFFFF;
+    position: absolute;
+    left: 115px;
+
+}
+
+.s-arrowImg {
+    color: white;
+    position: absolute;
+    display: flex;
+    bottom: 1em;
+    left: 4em;
+    font-family: 'Work Sans', sans-serif;
+    border: 1px solid white;
+}
+
+.s-arrowImg li {
+    list-style: none;
+}
+
+img.seeMoreIcon {
+    width: 20px;
+}
+
+.s-bannerTitleYear {
+    position: absolute;
+    left: 2.3em;
+    top: 1em;
+}
+
+span.s-lookTitle {
+    position: absolute;
+    left: .66em;
+
+}
+
+
+.s-bannerColor {
+    width: 65%;
+    height: 323.3px;
+    position: absolute;
+    margin-left: 5.65em;
+    top: 15em;
+    right: 0;
+
+    background-color: #F07E15;
+}
+
+.s-bannerColor img {
+    width: 39%;
+    position: absolute;
+    right: 12em;
+    bottom: -8em;
+
+}
+
+
+.heading_newProduct {
+    font-family: 'Syne', sans-serif;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 108px;
+    width: 689px;
+    height: 151px;
+    position: relative;
+    top: 0;
+    left: 1em;
+}
+
+section.about-section {
+    position: relative;
+    top: 35em;
+}
+
+section.contact_section {
+    position: relative;
+    top: 36em;
+}
+
+section.Products_section {
+    box-shadow: 1px 2px 5px grey;
+    position: relative;
+    top: 36em;
+}
+
+.Products {
+    display: flex;
+    width: 85%;
+    margin-top: 39px;
+    margin: 0 auto;
+    align-items: center;
+    height: 80vh;
+}
+
+
+section.Products_section {
+    box-shadow: 1px 2px 5px grey;
+}
